@@ -1,7 +1,7 @@
 # dotfiles
 
-sds
-lkandhy
+first time doing this.
 
-sir
+learning as i go 
+
 
